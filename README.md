@@ -4,7 +4,7 @@
 
 ![Player1](img/Player0.jpg)
 
-## Miss
+### Miss
 
 ![Player1miss](img/Player0miss.jpg)
 
@@ -12,7 +12,7 @@
 
 ![Player2](img/Player1.jpg)
 
-## Hit
+### Hit
 
 ![Player2Hit](img/Player1hit.jpg)
 
