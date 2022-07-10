@@ -14,8 +14,6 @@
  * 
  *          
  * 
- * @author  David Mathias
- * @version November 12, 2013
  * 
  * 
  * This program is a two player game where there is a board and ships are placed 
